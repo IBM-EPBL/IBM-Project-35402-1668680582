@@ -4,7 +4,7 @@
 ![images](https://github.com/ashwinmuthu303/pics/blob/main/README%20IMAGE.png)
 ## Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-**Domain**: Artificial Intelligence
+### Domain: Artificial Intelligence
 
 **Team ID**: PNT2022TMID01196
 
