@@ -1,5 +1,5 @@
 # IBM-Project-35402-1668680582
-**AI-powered Nutrition Analyzer for Fitness Enthusiasts**
+# AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 ![images](https://github.com/ashwinmuthu303/pics/blob/main/README%20IMAGE.png)
 **Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts**
@@ -42,13 +42,13 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
 **Model Building**:
 
-    =>Import the model building Libraries
+    Import the model building Libraries
 
-    =>Initializing the model
+    Initializing the model
 
-    =>Adding Input Layer
+    Adding Input Layer
 
-    =>Adding Hidden Layer
+    Adding Hidden Layer
 
     Adding Output Layer
 
@@ -58,7 +58,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
     Save the Model
 
-**Application Buildin**g:
+**Application Building:
 
     Create an HTML file
 
