@@ -2,7 +2,7 @@
 # AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 ![images](https://github.com/ashwinmuthu303/pics/blob/main/README%20IMAGE.png)
-**# Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts**
+**Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts**
 
 **Domain**: Artificial Intelligence
 
